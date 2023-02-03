@@ -24,3 +24,10 @@ html{
     color: rgb(255, 255, 255);
     text-shadow: 4px 3px 4px rgba(49, 41, 41, 0.385);
 }
+.Cover{
+    width: 200px;
+    height: 200px;
+    margin-left:34px;
+    margin-top: 9px;
+    border-radius: 20px;
+}
