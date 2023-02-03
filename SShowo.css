@@ -24,3 +24,11 @@ html{
     color: rgb(255, 255, 255);
     text-shadow: 4px 3px 4px rgba(49, 41, 41, 0.385);
 }
+.start{
+    color: white;
+    padding-left: 9px;
+}
+.end{
+    color: white;
+    padding-left: 175px;
+}
