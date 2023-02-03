@@ -24,3 +24,23 @@ html{
     color: rgb(255, 255, 255);
     text-shadow: 4px 3px 4px rgba(49, 41, 41, 0.385);
 }
+.Music_Name{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(240, 248, 255);
+    text-shadow: 4px 3px 4px rgba(49, 41, 41, 0.385);
+    padding-top: 3px;
+}
+.Song_Writers{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #666666;
+    font-size: smaller;
+    text-shadow: 4px 3px 4px rgba(49, 41, 41, 0.385);
+    text-align: center;
+    margin-top: -15px;
+    transition: 1.2s;
+}
+.Song_Writers:hover{
+    color: #2e2e2e;
+    cursor: pointer;
+}
