@@ -37,3 +37,12 @@ html{
     margin-top: -2px;
     margin-left: 12px;
 }
+.back,.play,.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.back,.play,.for:hover{
+    border-color: #bebebe;
+}
