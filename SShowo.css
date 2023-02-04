@@ -32,3 +32,8 @@ html{
     color: white;
     padding-left: 175px;
 }
+.control-time{
+    width: 90%;
+    margin-top: -2px;
+    margin-left: 12px;
+}
