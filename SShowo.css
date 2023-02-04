@@ -46,3 +46,7 @@ html{
 .back,.play,.for:hover{
     border-color: #bebebe;
 }
+.buttoms{
+    list-style-type:none;
+    margin-top: 10px;
+}
