@@ -51,3 +51,33 @@ html{
     color: #2e2e2e;
     cursor: pointer;
 }
+.start{
+    color: white;
+    padding-left: 9px;
+}
+.end{
+    color: white;
+    padding-left: 175px;
+}
+.control-time{
+    width: 90%;
+    margin-top: -2px;
+    margin-left: 12px;
+}
+.back,.play,.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.back,.play,.for:hover{
+    border-color: #bebebe;
+}
+.buttoms{
+    list-style-type:none;
+    margin-top: 10px;
+}
+li{
+    display: inline-block;
+    margin-right: 20px;
+}
